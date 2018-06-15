@@ -1,0 +1,22 @@
+{
+  "name": "mini-build-cli",
+  "version": "0.0.1",
+  "description": "mini-build-cli",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/link-team/mini-build-cli.git"
+  },
+  "keywords": [
+    "mini-build-cli"
+  ],
+  "author": "roninliu@foxmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/link-team/mini-build-cli/issues"
+  },
+  "homepage": "https://github.com/link-team/mini-build-cli#readme"
+}
